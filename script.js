@@ -1,9 +1,3 @@
-MARCOS VITOR DESIDERIO DE MATOS <marcos.desiderio.matos@escola.pr.gov.br>
-	
-19:13 (há 12 minutos)
-	
-	
-para ma
 const canvas = document.getElementById("jogo");
 const ctx = canvas.getContext("2d");
 
