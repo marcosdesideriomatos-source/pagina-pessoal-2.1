@@ -8,7 +8,7 @@ font-family: "Poppins", sans-serif;
 }
 header{
 background-color: #0a0a0a;
-color: #d932c8;
+color: #d8179e;
 width: 100%;
 padding: 20px;
 }
@@ -65,7 +65,7 @@ width: 38px;
 padding: 4px 8px;
 }
 .estudante{
-background-image: background-color(#8f43fa);
+background-image: background-color(#faae43);
 padding: 24px 0;
 }
 
@@ -78,16 +78,7 @@ display: flex;
 justify-content: space-around;
 }
 .escola{
-background-image: linear-gradient(#101C2C,#1D3557);
-color: white;
-display: flex;
-justify-content:center;
-padding: 24px 0;
-text-align:center;
-display:block;
-}
-.escola-jogo{
-background-image: linear-gradient(#0a0a0a,#101C2C);
+background-image: linear-gradient(#0a0a0a,#141414);
 color: white;
 display: flex;
 justify-content:center;
@@ -105,8 +96,8 @@ padding: 12px 0;
 }
 
 .link{
-color: #d932d3;
-text-decoration: 0;
+color: #D97732;
+text-decoration:
 }
 
 ul {
@@ -114,7 +105,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #1D3557;
+  background-color: #141414;
   display: flex;
   justify-content: center;
 }
@@ -125,7 +116,7 @@ ul li {
 
 ul li a {
   display: block;
-  color: hsl(297, 69%, 52%);
+  color: #d8179e;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -134,7 +125,7 @@ ul li a {
 ul li a:hover {
   background-color: #667385;
 }
-.palmeiras {
+.fav {
     background-color: white;
     display: flex;
     flex-direction: column;
