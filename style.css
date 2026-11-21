@@ -37,6 +37,17 @@ justify-content: flex-end;
 width: 25%;
 padding-right: 30px;
 }
+.sociais-link{
+   display: inline-block;
+}
+.sociais-link img{
+  width: 100px;
+  height: auto;
+  border-radius: 8px;
+}
+.sociais-link:hover img{
+    opacity: 0.85;
+}
 .banner1{
 display: block;
 width: 100%;
